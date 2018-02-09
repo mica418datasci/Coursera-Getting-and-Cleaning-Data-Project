@@ -1,13 +1,13 @@
 ##############################################################################
 #
 # FILE
-#   run_analysis.R
+# run_analysis.R
 #
 # OVERVIEW
-#   Using data collected from the accelerometers from the Samsung Galaxy S 
+#   Data is collected from the Samsung Galaxy 
 #   smartphone, work with the data and make a clean data set, outputting the
 #   resulting tidy data to a file named "tidy_data.txt".
-#   See README.md for details.
+#
 ##############################################################################
 
 library(dplyr)
